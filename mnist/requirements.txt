@@ -1,0 +1,4 @@
+micrograd==0.1.0
+requests==2.31.0
+numpy==1.26.4
+torch==2.2.2
