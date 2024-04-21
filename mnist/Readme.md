@@ -1,6 +1,6 @@
 # MNIST Handwritten Digit Recognition
 
-This folder contains the necessary Python scripts to train and evaluate a neural network model on the MNIST dataset, a collection of handwritten digits.
+This folder contains the necessary Python scripts to train and evaluate a neural network model on the MNIST dataset, a collection of handwritten digits. This is copied almost wholesale from https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627 with the change in the model's final layer to use a softmax instead of a log softmax + the loss func.
 
 ## Installation
 
